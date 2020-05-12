@@ -404,6 +404,8 @@ a {
 }
 
 .navbar-brand {
+    height: 100px;
+    width: 100px;
     letter-spacing: 3px;
     font-family: 'Josefin Sans', sans-serif;
 }
