@@ -1,4 +1,5 @@
 
+
 /*-----------------
 * [Master Stylesheet]
 *
@@ -403,13 +404,10 @@ a {
     stroke-dashoffset: -138px;
 }
 
-.navbar-brand {height: 50px;
-    width: 50px;
+.navbar-brand {
     letter-spacing: 3px;
     font-family: 'Josefin Sans', sans-serif;
 }
-
-
 
 .nav-wrapper .navbar-toggler {
     position: absolute;
